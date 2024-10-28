@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "ipv4.h": "c",
+        "charconv": "c"
+    }
+}
